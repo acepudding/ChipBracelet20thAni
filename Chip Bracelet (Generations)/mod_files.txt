@@ -1,0 +1,3 @@
+add disk_su/bb2/EnemyCommon.ar.00
+add disk_su/bb2/EnemyCommon.arl
+add mod.ini
